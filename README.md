@@ -4,3 +4,5 @@ TextUtils is a word counter and a character counting utility which can be used t
 You can view your text summary and preview also.
 
 There is also different types of dark mode available.
+
+ChecOUT here: https://reactmytextutils.netlify.app/
